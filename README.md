@@ -1,1 +1,2 @@
 # Pan Cancer Analysis focusing on survival analysis of solid tumor 
+Breast Cancer dataset(Source: Kaggle) contains information on breast cancer patients, including their Patient_ID, Age, Gender, and expression levels of four proteins (Protein1, Protein2, Protein3, Protein4). The dataset also includes the Breast cancer stage of the patient (Tumor_Stage), Histology (type of cancer), ER, PR, and HER2 status, Surgery_type, Date of Surgery, Date of Last Visit, and Patient Status (Alive/Dead).
